@@ -1,5 +1,5 @@
-# Olá, <🃏/> 
-## Este repo é sobre a configuração do prompt.
+# Oh-My-Posh
+## Este repositório é sobre a personalização do Terminal no Windows 11 para o pessoal que gosta de personalizar o seu terminal.
 _Aqui, indicarei as referências que usei para dar crédito ao trabalho de uma pesquisa mais abrangente e fornecer alguns detalhes para quem é leigo no assunto._
 
 _O processo é simples e direto._
